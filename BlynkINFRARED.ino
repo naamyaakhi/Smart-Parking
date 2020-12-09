@@ -47,8 +47,8 @@ char auth[] = "qW8dS4UCu8a8Xd7s4cmRdxp2fvh3XOvVsssss";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Almira04";
-char pass[] = "papamama";
+char ssid[] = ".....";
+char pass[] = ".....";
 
 WidgetLED led1(V1);
 
